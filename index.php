@@ -14,6 +14,12 @@
           $direction = $direction + 15;
           echo 'On tient le bon bout';
         }
+
+/*Autre possibilité boucle for
+        for ($direction = 1; $direction <= 100 ; $direction += 15) {
+          echo 'On tient le bon bout ';
+        }
+*/
       ?>
     </p>
   </body>
